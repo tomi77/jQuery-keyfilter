@@ -2,7 +2,6 @@
  * jQuery keyFilter plugin
  *
  * @author Tomasz Jakub Rup
- * @see https://code.google.com/p/jquery-plugins-ext/
  */
 (function($){
 	/**
